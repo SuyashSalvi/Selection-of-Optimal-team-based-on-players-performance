@@ -11,9 +11,8 @@
 
 </ol>
 
-<h1>IEEE Certificate: </h1>
-<b> This is the IEEE certificate for the paper published on the same topic</b>
-<img width="800" alt="Main_Screen" src="https://user-images.githubusercontent.com/73281026/217065632-1e7fcecd-671d-4054-8a94-e3a55a595cbc.jpg">
+<h1>IEEE Paper: </h1>
+<b> This is the IEEE paper published on the same topic</b>
 
 [Click here to read the Publication](https://ieeexplore.ieee.org/abstract/document/9137891)
 
